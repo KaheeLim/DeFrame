@@ -1,6 +1,7 @@
 # DeFrame
 
 Official implementation of **DeFrame: Framing-aware Debiasing for LLM Fairness**.
+Paper: [DeFrame: Framing-aware Debiasing for LLM Fairness](https://arxiv.org/abs/2602.04306)
 
 This repository contains code for running DeFrame experiments on fairness-related benchmarks and evaluating model responses under different framing conditions.
 
