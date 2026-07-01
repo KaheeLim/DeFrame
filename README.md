@@ -71,11 +71,6 @@ DeFrame/
 
 You can run experiments using `DeFrame.py`.
 
-### Run BBQ experiments
-
-```bash
-python DeFrame.py --dataset BBQ --model qwen2.5-7b-instruct
-```
 
 ### Run DeFrame - BBQ
 
